@@ -38,7 +38,9 @@ img {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 2px solid #803D3B;
 }
 
 .HakCipta {
